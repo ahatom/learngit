@@ -13,4 +13,7 @@ master 0000000000000000
 i am in branch dev 0000000000000000
 i am in branch dev 111111
 i am in branch dev 222222
+---------------------------
+i am in branch bobo 0000
+i am in branch bobo 1111
 
